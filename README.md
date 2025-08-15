@@ -48,6 +48,7 @@ Both B cells and malignant melanocytes expressed multiple core HLA-II genes (DRA
 ## 📂 Repository Contents
 
 - `Melanoma_RMarkdown.pdf` – Rendered RMarkdown report with code, plots, and commentary
+- `Melanoma_RMarkdown.Rmd` – RMarkdown script
 - `scRNA-seq_Melanoma_Report.pdf` – Condensed research report presentation with background, methods, and interpretation
 
 ---
